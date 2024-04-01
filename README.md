@@ -4,8 +4,8 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 
 ### Education
 
-- Bachelor of Science in Industrial Engineering, Bilkent University, 2019-2023
 - Master of Science in Statistics and Machine Learning, Linköping University, 2023-2025
+- Bachelor of Science in Industrial Engineering, Bilkent University, 2019-2023
 
 ### Skills
 
