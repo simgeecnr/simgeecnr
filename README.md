@@ -19,7 +19,7 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 
 ### Contact
 
-- LinkedIn: [simge-çınar-228ab1208](www.linkedin.com/in/simge-çınar-228ab1208)
+- LinkedIn: [simge-çınar-228ab1208]([www.linkedin.com/in/simge-çınar-228ab1208](https://www.linkedin.com/in/simge-\%C3\%A7\%C4\%B1nar-228ab1208))
 - Email: csimge00@gmail.com
 
 <!--
