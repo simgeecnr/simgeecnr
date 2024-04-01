@@ -7,6 +7,16 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 - Bachelor of Science in Industrial Engineering, Bilkent University, 2019-2023
 - Master of Science in Statistics and Machine Learning, Linköping University, 2023-2025
 
+### Skills
+
+- Statistical Analysis
+- Machine Learning
+- Python Programming
+- R Programming
+- SQL
+- Optimization Techniques
+- Project Management
+
 <!--
 **simgeecnr/simgeecnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
