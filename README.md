@@ -14,7 +14,7 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 - Python Programming
 - R Programming
 - SQL
-- Optimization Techniques
+- Optimization Techniques (LP, MILP)
 - Project Management
 
 <!--
