@@ -17,6 +17,11 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 - Optimization Techniques (LP, MILP)
 - Project Management
 
+### Contact
+
+- LinkedIn: [simge-çınar-228ab1208](www.linkedin.com/in/simge-çınar-228ab1208)
+- Email: csimge00@gmail.com
+
 <!--
 **simgeecnr/simgeecnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
