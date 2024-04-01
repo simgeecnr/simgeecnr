@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 😊
 
 I'm Simge Cinar, an industrial engineer with a passion for statistics and machine learning. Currently pursuing a master's degree in Statistics and Machine Learning in Sweden, I am enthusiastic about applying analytical techniques to solve real-world problems. This GitHub repository serves as a showcase of my projects, skills, and interests.
 
