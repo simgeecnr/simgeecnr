@@ -1,6 +1,6 @@
 ## Hi there 👋 😊
 
-I'm Simge Cinar, an industrial engineer with a passion for statistics and machine learning. Currently pursuing a master's degree in Statistics and Machine Learning in Sweden, I am enthusiastic about applying analytical techniques to solve real-world problems. This GitHub repository serves as a showcase of my projects, skills, and interests.
+I’m Simge Cinar, and I recently completed my Master’s in Statistics & Machine Learning at Linköping University, Sweden. I enjoy turning data into insights and creating solutions for real-world problems. This repository highlights some of my projects and skills.
 
 ### Education
 
@@ -9,17 +9,17 @@ I'm Simge Cinar, an industrial engineer with a passion for statistics and machin
 
 ### Skills
 
-- Statistical Analysis
-- Machine Learning
-- Python Programming
-- R Programming
-- SQL
-- Optimization Techniques (LP, MILP)
-- Project Management
+- Data Analysis & Statistical Modeling
+- Machine Learning & Predictive Modeling
+- Time Series Analysis & Forecasting
+- Text Mining & Natural Language Processing (NLP)
+- Programming: Python, R, SQL
+- Optimization Techniques: Linear Programming (LP), Mixed-Integer Linear Programming (MILP)
+- Project Management & Data-Driven Decision Making
 
 ### Contact
 
-- LinkedIn: [simge-çınar-228ab1208](https://www.linkedin.com/in/simge-\%C3\%A7\%C4\%B1nar-228ab1208)
+- LinkedIn: [simge-cinar-228ab1208](https://www.linkedin.com/in/simge-cinar-228ab1208/)
 - Email: csimge00@gmail.com
 
 <!--
