@@ -1,6 +1,6 @@
 ## Hi there 👋 😊
 
-I’m Simge Cinar, and I recently completed my Master’s in Statistics & Machine Learning at Linköping University, Sweden. I enjoy turning data into insights and creating solutions for real-world problems. This repository highlights some of my projects and skills.
+I’m **Simge Cinar**, a recent **MSc graduate in Statistics and Machine Learning** from **Linköping University, Sweden**. My interests focus on **predictive modeling** and **probabilistic machine learning**, with a strong emphasis on applying **interpretable algorithms** to solve **real-world problems**. This repository showcases a selection of my projects, highlighting both my technical skills and practical applications.
 
 ### Education
 
